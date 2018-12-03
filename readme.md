@@ -3,6 +3,9 @@
 scratch是由MIT开发的一套针对青少年图形化编程套件，官方建议的年龄范围是６~18岁。
 + 官网 - https://scratch.mit.edu/
 
+## scratchJr
+scratchJr是针对低龄儿童开发的一套图形化编程套件，小朋友可以在上面画画，录音，拖拽编辑程序。官方建议的年龄范围是3~6岁。scratchJr是以IPad应用的形式发布的。
+
 ## code.org
 code.org是由微软打造的一个针对青少年的在线编程平台，其中既包含诸如scracth的图形化编程训练，也包含javascript, python等文本程序设计训练。官方建议的年龄范围是３~18岁。
 + 官网 - http://www.code.org/
