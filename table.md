@@ -5,5 +5,5 @@
 |--------|:------------:|:---------:|:-----------:|--------|
 |[scratch](https://scratch.mit.edu/) | 6 ~ 18 | 英语 | 很好 | scratch是由MIT开发的一套针对青少年的拖拽式编程平台，是少儿拖拽式(图形化)编程领域的No1，国内大部分的编程训练营课程也是基于该平台|
 |[scratchJr](https://www.scratchjr.org/)| 3~6 | 英语 | 很好 | scratchJr是为低龄小朋友开发的一套类似scratch的拖拽是编程平台，小朋友可以在上面涂鸦，录制声音并运用在自己的作品中，scratchJr是一平板应用的形式推出，没有网页版，不过应用也是免费的.在scratchJr的帮助菜单里有很多好玩的示例，建议可以从修改这些示例入手|
-|<img width=200/>|<img width=400/>|<img width=400/>|<img width=450/>|<img width=200/>|
 |[code.org](https://code.org/)|3 ~ 18 | 英语　| 很好 | code.org是微软在儿童编程领域的综合平台。其中既包含诸如scracth的图形化编程训练，也包含javascript, python等文本程序设计训练，其中的每个练习都有对应的标准答案，比较适合没有编程基础的父母|
+|<img width=200/>|<img width=400/>|<img width=400/>|<img width=450/>|<img width=200/>|
