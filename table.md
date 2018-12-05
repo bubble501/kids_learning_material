@@ -15,7 +15,7 @@
 
 ## 儿童编程APP
 
-｜名字　　|年龄段 |IOS|android| 简介　|
+| 名字　　|年龄段 |IOS|android| 简介　|
 |-------|:----:|:---:|:---:|------|
 |lightbot|3~12|有|有|lightbot是一款培养儿童计算思维的手机(平板）应用。lightbot画面简介，主题突出。在游戏中培养“顺序，分支，循环，函数”等计算思维。lightbot一共有三个（lightbot, lightbotJr, lightbot:CodeOfhour)版本，其中codeOfHour版本免费|
 
