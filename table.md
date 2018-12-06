@@ -16,11 +16,11 @@
 
 ## 儿童编程APP
 
-| 名字　　|年龄段 |IOS|android| 简介　|
-|-------|:----:|:---:|:---:|------|
-|lightbot|3~12|有|有|lightbot是一款培养儿童计算思维的手机(平板）应用。lightbot画面简介，主题突出。在游戏中培养“顺序，分支，循环，函数”等计算思维。lightbot一共有三个（lightbot, lightbotJr, lightbot:CodeOfhour)版本，其中codeOfHour版本免费|
-|boxisland|3~12|有|有|boxisland是一款培养儿童计算思维的３D手机游戏|
-|kids Coding|3~12|有|有|kids Coding除了其他同类游戏拥有的“顺序，分支，循环，函数”等训练外，还加入了空间集合相关的游戏。kids Coding采用订阅模式按期收费，4.99美元一月，１９．９９美元半年，２９．９９一年。提供７天免费试用，试用完自动订阅，不想继续订阅不要忘记及时取消。即使不订阅也提供很多免费使用的内容|
+| 名字　　|年龄段 |IOS|android| 简介　|推荐指数|
+|-------|:----:|:---:|:---:|------|-----|
+|lightbot|3~12|有|有|lightbot是一款培养儿童计算思维的手机(平板）应用。lightbot画面简介，主题突出。在游戏中培养“顺序，分支，循环，函数”等计算思维。lightbot一共有三个（lightbot, lightbotJr, lightbot:CodeOfhour)版本，其中codeOfHour版本免费|:star::star::star::star::star:|
+|boxisland|3~12|有|有|boxisland是一款培养儿童计算思维的３D手机游戏|:star::star::star::star::star:|
+|kids Coding|3~12|有|有|kids Coding除了其他同类游戏拥有的“顺序，分支，循环，函数”等训练外，还加入了空间集合相关的游戏。kids Coding采用订阅模式按期收费，4.99美元一月，１９．９９美元半年，２９．９９一年。提供７天免费试用，试用完自动订阅，不想继续订阅不要忘记及时取消。即使不订阅也提供很多免费使用的内容|:star::star::star:|
 
 ## 儿童英语学习网站
 
